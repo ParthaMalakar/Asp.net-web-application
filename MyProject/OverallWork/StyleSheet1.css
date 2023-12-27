@@ -1,0 +1,22 @@
+﻿body {
+    background-color: #cce8f1;
+}
+.bg-info1 {
+    background-color: #ffffff;
+    padding:20px;
+    font-size:20px
+}
+.rowpadding{
+    border-bottom: 1px solid; 
+}
+.bg-info2 {
+    background-color: #ffffff;
+    padding: 2px;
+    font-size: 14px
+}
+.btncol {
+    background-color: #bcb7b7;
+}
+.hidden {
+    display: none;
+}
